@@ -1,2 +1,2 @@
 Var a = 10;
-Var b= "TEST merge"
+Var b= "TEST hello"
