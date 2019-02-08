@@ -1,2 +1,2 @@
 Var a = 10;
-Var b= "TEST hello github"
+var b="Hello cats"
